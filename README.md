@@ -24,7 +24,19 @@ While this challenge has its own set of [rules](https://github.com/kallaway/100-
 # Challenge Timeline
 
 - **Start Date**: July 1, 2025
-- **End Date**: October 9, 2025 (estimated)
+- **End Date**: October 29, 2025 (estimated)
+
+# Progress Updates
+
+- **Challenge Attempts**:
+  - **1st Attempt**: July 1 – July 20 (broke streak).
+  - **2nd Attempt**: Started on July 21, focusing on SAP alongside GCP.
+
+# Currently Learning
+
+- **JavaScript**: Basics, data structures, algorithms, and web development.
+- **SAP**: Basics, integration with .NET, details will be updated later.
+- **GCP**: Cloud infrastructures, details will be updated later.
 
 # Currently Learning
 
